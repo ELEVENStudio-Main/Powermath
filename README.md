@@ -1,4 +1,5 @@
 # Powermath
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ELEVENStudio-Main/Powermath?color=pink&include_prereleases&label=%E6%9C%80%E6%96%B0%E7%A8%B3%E5%AE%9A%E7%89%88%E6%9C%AC)   
 ![GitHub last commit](https://img.shields.io/github/last-commit/ELEVENStudio-Main/Powermath?color=9cf)    
 [![GitHub release](https://img.shields.io/github/release/ELEVENStudio-Main/Powermath)](https://github.com/ELEVENStudio-Main/Powermath/releases/latest)   
 ## 关于Powermath
